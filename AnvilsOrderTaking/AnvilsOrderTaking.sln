@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnvilsOrderTaking", "AnvilsOrderTaking\AnvilsOrderTaking.csproj", "{DE64BD0F-27CA-4C1F-B4F2-F9CCBAE26EE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnvilOrderTrackingTests", "AnvilOrderTrackingTests\AnvilOrderTrackingTests.csproj", "{B44C32E2-A448-4601-BA22-5D119657EE0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE64BD0F-27CA-4C1F-B4F2-F9CCBAE26EE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE64BD0F-27CA-4C1F-B4F2-F9CCBAE26EE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE64BD0F-27CA-4C1F-B4F2-F9CCBAE26EE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE64BD0F-27CA-4C1F-B4F2-F9CCBAE26EE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B44C32E2-A448-4601-BA22-5D119657EE0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B44C32E2-A448-4601-BA22-5D119657EE0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B44C32E2-A448-4601-BA22-5D119657EE0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B44C32E2-A448-4601-BA22-5D119657EE0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BB7A21B-5502-4292-8F2F-EF0334E10119}
+	EndGlobalSection
+EndGlobal
